@@ -1,9 +1,9 @@
-# PDF-Document-Question-Answering-and-Summarization-Application
+## PDF-Document-Question-Answering-and-Summarization-Application
 
-Description:
+# Description:
 This project is a powerful application that leverages the capabilities of Language Models (LLMs) and generative AI to provide intelligent responses to questions related to PDF documents. Built using Streamlit and Python, the application allows users to upload a PDF document and obtain accurate answers to their questions based on the content of the document.
 
-Key Features:
+# Key Features:
 
   1- Question Answering: The application utilizes advanced Natural Language Processing techniques and LLMs to comprehend the uploaded PDF document and generate relevant answers to user queries. Users can ask questions about specific sections, facts, or details within the document, and the application will extract the necessary information to provide accurate responses.
 
@@ -13,4 +13,5 @@ Key Features:
 
 By combining the power of LLMs, generative AI, and user-friendly design, this PDF Document Question Answering and Summarization Application revolutionizes the way users interact with and extract information from PDF documents. It offers an efficient and automated solution for quickly obtaining accurate answers and concise summaries, saving time and effort in document analysis and research tasks.
 
-Technologies Used: Python, Streamlit, Natural Language Processing, Language Models, Generative AI
+# Technologies Used: 
+Python, Streamlit, Natural Language Processing, Language Models, Generative AI
